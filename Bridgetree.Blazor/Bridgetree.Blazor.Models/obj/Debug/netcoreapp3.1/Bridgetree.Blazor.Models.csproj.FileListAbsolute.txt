@@ -1,0 +1,9 @@
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.deps.json
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.json
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.dev.json
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfoInputs.cache
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfo.cs
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
