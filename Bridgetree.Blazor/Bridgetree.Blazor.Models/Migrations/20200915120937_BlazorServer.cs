@@ -58,12 +58,17 @@ namespace Bridgetree.Blazor.Models.Migrations
             migrationBuilder.InsertData(
                 table: "Employees",
                 columns: new[] { "EmployeeId", "DateOfBrith", "DepartmentId", "Email", "FirstName", "Gender", "LastName" },
-                values: new object[] { 1, new DateTime(1981, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, "PNishanth@Bridgetree.com", "P", 0, "Nishanth" });
+                values: new object[] { 1, new DateTime(1981, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, "JStacy@Bridgetree.com", "Joshua", 0, "Stacy" });
 
             migrationBuilder.InsertData(
                 table: "Employees",
                 columns: new[] { "EmployeeId", "DateOfBrith", "DepartmentId", "Email", "FirstName", "Gender", "LastName" },
-                values: new object[] { 2, new DateTime(1990, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, "jbehera@Bridgetree.com", "Jitendra", 0, "Behera" });
+                values: new object[] { 2, new DateTime(1981, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, "PNishanth@Bridgetree.com", "P", 0, "Nishanth" });
+
+            migrationBuilder.InsertData(
+                table: "Employees",
+                columns: new[] { "EmployeeId", "DateOfBrith", "DepartmentId", "Email", "FirstName", "Gender", "LastName" },
+                values: new object[] { 3, new DateTime(1990, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, "jbehera@Bridgetree.com", "Jitendra", 0, "Behera" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Employees_DepartmentId",

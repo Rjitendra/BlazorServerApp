@@ -30,5 +30,9 @@ namespace Bridgetree.Blazor.Server.Web.Pages
 
 
         }
+        protected async Task EmployeeDeleted(int employeeId)
+        {
+            Employees = (await EmployeeService.GetEmployees()).ToList();
+        }
     }
 }

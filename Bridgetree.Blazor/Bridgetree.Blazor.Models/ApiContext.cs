@@ -28,11 +28,22 @@ namespace Bridgetree.Blazor.Models
         modelBuilder.Entity<Department>().HasData(
             new Department { DepartmentId = 4, DepartmentName = "Admin" });
 
-        // Seed Employee Table
+            // Seed Employee Table
 
-        modelBuilder.Entity<Employee>().HasData(new Employee
+            modelBuilder.Entity<Employee>().HasData(new Employee
+            {
+                EmployeeId = 1,
+                FirstName = "Joshua",
+                LastName = "Stacy",
+                Email = "JStacy@Bridgetree.com",
+                DateOfBrith = new DateTime(1981, 12, 22),
+                Gender = Gender.Male,
+                DepartmentId = 1
+            });
+
+            modelBuilder.Entity<Employee>().HasData(new Employee
         {
-            EmployeeId = 1,
+            EmployeeId = 2,
             FirstName = "P",
             LastName = "Nishanth",
             Email = "PNishanth@Bridgetree.com",
@@ -42,7 +53,7 @@ namespace Bridgetree.Blazor.Models
         });
         modelBuilder.Entity<Employee>().HasData(new Employee
         {
-            EmployeeId = 2,
+            EmployeeId = 3,
             FirstName = "Jitendra",
             LastName = "Behera",
             Email = "jbehera@Bridgetree.com",

@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Bridgetree.Blazor.Models.Migrations
 {
     [DbContext(typeof(ApiContext))]
-    [Migration("20200914064041_BlazorServer")]
+    [Migration("20200915120937_BlazorServer")]
     partial class BlazorServer
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -97,6 +97,16 @@ namespace Bridgetree.Blazor.Models.Migrations
                             EmployeeId = 1,
                             DateOfBrith = new DateTime(1981, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             DepartmentId = 1,
+                            Email = "JStacy@Bridgetree.com",
+                            FirstName = "Joshua",
+                            Gender = 0,
+                            LastName = "Stacy"
+                        },
+                        new
+                        {
+                            EmployeeId = 2,
+                            DateOfBrith = new DateTime(1981, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            DepartmentId = 1,
                             Email = "PNishanth@Bridgetree.com",
                             FirstName = "P",
                             Gender = 0,
@@ -104,7 +114,7 @@ namespace Bridgetree.Blazor.Models.Migrations
                         },
                         new
                         {
-                            EmployeeId = 2,
+                            EmployeeId = 3,
                             DateOfBrith = new DateTime(1990, 6, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             DepartmentId = 1,
                             Email = "jbehera@Bridgetree.com",

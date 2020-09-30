@@ -24,7 +24,7 @@ namespace Bridgetree.Blazor.Server.Web.Services.Implementations
 
         public async Task DeleteEmployee(int id)
         {
-            await httpClient.DeleteAsync($"api/employees/{id}");
+            await httpClient.DeleteAsync($"api/employee/{id}");
         }
 
         public async Task<Employee> GetEmployee(int id)

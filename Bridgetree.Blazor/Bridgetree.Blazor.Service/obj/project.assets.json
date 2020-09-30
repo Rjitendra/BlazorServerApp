@@ -6078,11 +6078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Jitendra Personal\\My Project\\Bridgetree.Training\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
+      "projectUniqueName": "C:\\Users\\jbehera.BRIDGETREE\\Desktop\\BlazorServerApp\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
       "projectName": "Bridgetree.Blazor.Service",
-      "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Bridgetree.Training\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
+      "projectPath": "C:\\Users\\jbehera.BRIDGETREE\\Desktop\\BlazorServerApp\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
       "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Bridgetree.Training\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\obj\\",
+      "outputPath": "C:\\Users\\jbehera.BRIDGETREE\\Desktop\\BlazorServerApp\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6101,8 +6101,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Workspace\\Jitendra Personal\\My Project\\Bridgetree.Training\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj": {
-              "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Bridgetree.Training\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj"
+            "C:\\Users\\jbehera.BRIDGETREE\\Desktop\\BlazorServerApp\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj": {
+              "projectPath": "C:\\Users\\jbehera.BRIDGETREE\\Desktop\\BlazorServerApp\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj"
             }
           }
         }
