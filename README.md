@@ -18,6 +18,8 @@ This will create the required asp.net core identity database tables.
 
 Execute the Update-Database one more time. This time set Bridgetree.Blazor.Models as the Default project. This migration creates the "BridgetreeTraining" database and the required tables.
 
+Then set start up project as Bridgetree.Blazor.Api and Bridgetree.Blazor.Server.Web.
+
 For all Repositories you may find in
 https://github.com/Rjitendra?tab=repositories
 
